@@ -1,0 +1,28 @@
+body{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(202, 202, 202);
+  }
+  
+  h1{
+    text-align: center;  
+    color: rgb(223, 200, 200);
+    background-color: lightslategrey;
+    padding: 6px 0px 2px 0px;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 15px -5px rgba(0,0,0,0.3); 
+  }
+  
+  input{
+    text-align: center;
+    height: 30px;
+    top: 10px;
+    border: none;
+    background: transparent;
+    font-size: 20px;
+    font-weight: 500;
+    width: 60%;
+    border-bottom: 2px solid #8566aa;
+    outline: none;
+}
